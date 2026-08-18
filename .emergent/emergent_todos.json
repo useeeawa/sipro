@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Fase 1: POC core hijau (3 cacat nyata ditemukan & diperbaiki)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2: Backend lengkap (engine, store, router, RBAC, seed, scheduler, metrik)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2: Frontend lengkap (2 tab baru di /boq, komponen budget/*, kartu target, /bi)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2: Regresi gate diperbaiki (engine.py 800 baris, api_contract, verify_33, forms E4)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3: Gate ke-29 `verify_budget_target.py` + registrasi run_all_gates.sh — OVERALL PASS (29 gates)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3: Uji-mutasi `mutasi_45.py` 15 mutasi — semua TERTANGKAP, baseline pulih hijau",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3: E2E multi-peran via testing_agent_v3 + perbaiki SEMUA temuan",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 3: Governance — update docs/v2/32, docs/v2/40, CODEBASE_MAP, test_credentials, test_result, plan.md",
+    "status": "pending"
+  }
+]
